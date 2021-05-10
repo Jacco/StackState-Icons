@@ -9,16 +9,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg16"
    inkscape:export-filename="/Users/jaccokulman/bitmap.png"
    inkscape:export-xdpi="59.900002"
    inkscape:export-ydpi="59.900002"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="EventBridge.svg">
+   sodipodi:docname="Events-Bus.svg">
   <defs
      id="defs10">
     <linearGradient
@@ -50,12 +50,12 @@
        x2="131.53572"
        y2="61.988094"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(3.118491,1.3697201)" />
+       gradientTransform="matrix(0.62398397,0,0,0.62398397,-17.784602,-35.237677)" />
     <linearGradient
-       x1="0%"
-       y1="100%"
-       x2="100%"
-       y2="0%"
+       x1="0"
+       y1="1"
+       x2="1"
+       y2="0"
        id="linearGradient-1">
       <stop
          stop-color="#B0084D"
@@ -76,7 +76,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.5759173"
      inkscape:cx="108.92889"
-     inkscape:cy="407.00272"
+     inkscape:cy="205.60173"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -85,7 +85,8 @@
      inkscape:window-height="1067"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -94,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,25 +104,25 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.87195;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3073"
-       cx="85.895088"
-       cy="112.11671"
-       r="54.274899"
+       cx="33.866665"
+       cy="33.866665"
+       r="33.866665"
        inkscape:export-filename="/Users/jaccokulman/EventBridge.png"
        inkscape:export-xdpi="59.900002"
        inkscape:export-ydpi="59.900002" />
     <path
        id="rect2991"
-       style="fill:url(#linearGradient2999);fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.264583"
-       d="M 85.895349,65.241276 A 46.389192,46.875329 0 0 0 39.505933,112.11697 46.389192,46.875329 0 0 0 85.895349,158.99214 46.389192,46.875329 0 0 0 132.28424,112.11697 46.389192,46.875329 0 0 0 85.895349,65.241276 Z"
+       style="fill:url(#linearGradient2999);fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.165096"
+       d="M 33.866831,4.6171507 A 28.946112,29.249454 0 0 0 4.9205787,33.866832 28.946112,29.249454 0 0 0 33.866831,63.116183 28.946112,29.249454 0 0 0 62.812755,33.866832 28.946112,29.249454 0 0 0 33.866831,4.6171507 Z"
        inkscape:export-xdpi="59.900002"
        inkscape:export-ydpi="59.900002"
        inkscape:export-filename="/Users/jaccokulman/EventBridge.png" />
     <g
        id="g423"
        style="fill:#ffffff"
-       transform="matrix(1.2659014,0,0,1.2659014,88.579897,-36.066151)"
+       transform="matrix(0.78990218,0,0,0.78990218,35.541945,-58.597063)"
        inkscape:export-filename="/Users/jaccokulman/EventBridge.png"
        inkscape:export-xdpi="59.900002"
        inkscape:export-ydpi="59.900002">

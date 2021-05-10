@@ -8,20 +8,20 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg431"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="MFA.svg">
+   sodipodi:docname="IAM-MFA.svg">
   <defs
      id="defs425">
     <linearGradient
-       x1="0%"
-       y1="100%"
-       x2="100%"
-       y2="0%"
+       x1="0"
+       y1="1"
+       x2="1"
+       y2="0"
        id="linearGradient-1">
       <stop
          stop-color="#BD0816"
@@ -41,7 +41,7 @@
        x2="80"
        y2="0"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-50.270859)" />
+       gradientTransform="matrix(0.62427034,0,0,0.62427034,-68.480568,-72.963917)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient-1"
@@ -59,7 +59,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
+     inkscape:zoom="0.7"
      inkscape:cx="521.42857"
      inkscape:cy="590"
      inkscape:document-units="mm"
@@ -70,7 +70,8 @@
      inkscape:window-height="1067"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata428">
     <rdf:RDF>
@@ -88,21 +89,21 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:26.1304"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:16.3124"
        id="path4286"
-       cx="113.67683"
-       cy="171.12872"
-       r="54.25" />
+       cx="33.866665"
+       cy="33.866665"
+       r="33.866665" />
     <path
        id="rect2991"
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient461);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 113.67628,124.25329 a 46.389192,46.875329 0 0 0 -46.389224,46.87569 46.389192,46.875329 0 0 0 46.389224,46.87517 46.389192,46.875329 0 0 0 46.38889,-46.87517 46.389192,46.875329 0 0 0 -46.38889,-46.87569 z"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient461);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.165171;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="M 33.86677,4.6037257 A 28.959397,29.262877 0 0 0 4.9073537,33.866828 28.959397,29.262877 0 0 0 33.86677,63.129608 28.959397,29.262877 0 0 0 62.82598,33.866828 28.959397,29.262877 0 0 0 33.86677,4.6037257 Z"
        inkscape:export-xdpi="69.613052"
        inkscape:export-ydpi="69.613052" />
     <path
-       d="m 128.32071,172.47526 2.97493,-8.69556 3.00209,8.69556 z m 4.84788,-11.6841 h -3.58455 l -6.88885,18.8276 h 3.31623 l 1.51972,-4.72562 h 7.52734 l 1.57575,4.72562 h 3.31623 z m -18.02622,8.09788 h 6.65793 v 2.66078 h -6.65793 v 8.06894 h -3.31456 v -18.8276 h 11.43792 v 2.66252 h -8.12336 z m -11.30373,-8.09788 h 3.58796 v 18.8276 h -3.0429 v -14.10204 l -4.890306,9.37642 h -2.986807 l -4.728963,-9.3204 v 14.04602 h -3.042898 v -18.82767 h 3.694939 l 5.649263,11.22055 z m 9.83664,44.29967 c -18.725761,0 -33.962138,-15.23632 -33.962138,-33.96214 0,-18.72575 15.236377,-33.96213 33.962138,-33.96213 18.72749,0 33.96386,15.23638 33.96386,33.96213 0,18.72582 -15.23637,33.96214 -33.96386,33.96214 z m 0,-71.32027 c -20.600378,0 -37.358204,16.75776 -37.358204,37.35813 0,20.60044 16.757826,37.3582 37.358204,37.3582 20.60043,0 37.35986,-16.75776 37.35986,-37.3582 0,-20.60037 -16.75943,-37.35813 -37.35986,-37.35813 z"
+       d="m 43.008856,34.70727 1.857161,-5.428382 1.874115,5.428382 z m 3.026389,-7.294039 h -2.237729 l -4.300503,11.753514 h 2.070221 l 0.948717,-2.950065 h 4.699095 l 0.983694,2.950065 h 2.070225 z m -11.253234,5.055267 h 4.156347 v 1.661046 h -4.156347 v 5.037201 H 32.712829 V 27.413231 h 7.140353 v 1.662133 h -5.071171 z m -7.056584,-5.055267 h 2.239857 v 11.753514 h -1.899592 v -8.803487 l -3.052874,5.853422 h -1.864575 l -2.952151,-5.81845 v 8.768515 H 18.296501 V 27.413188 h 2.306641 l 3.526667,7.004656 z m 6.140723,27.654972 c -11.689938,0 -21.201557,-9.511583 -21.201557,-21.201557 0,-11.689932 9.511619,-21.201552 21.201557,-21.201552 11.691017,0 21.202629,9.51162 21.202629,21.201552 0,11.689974 -9.511612,21.201557 -21.202629,21.201557 z m 0,-44.523131 c -12.860206,0 -23.32162,10.461373 -23.32162,23.321574 0,12.860242 10.461414,23.321616 23.32162,23.321616 12.860237,0 23.322653,-10.461374 23.322653,-23.321616 0,-12.860201 -10.462416,-23.321574 -23.322653,-23.321574 z"
        id="AWS-Identity-and-Access-Management_MFA-token_Resource-Icon_light-bg"
        fill="#ff5252"
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.69802" />
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.06002" />
   </g>
 </svg>

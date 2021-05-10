@@ -9,16 +9,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg16"
    inkscape:export-filename="/Users/jaccokulman/bitmap.png"
    inkscape:export-xdpi="59.900002"
    inkscape:export-ydpi="59.900002"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="StepFunctionState.svg">
+   sodipodi:docname="StepFunctions-State.svg">
   <defs
      id="defs10">
     <linearGradient
@@ -67,10 +67,11 @@
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1792"
-     inkscape:window-height="1120"
+     inkscape:window-height="1067"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -88,14 +89,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.87195;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3073"
-       cx="85.895088"
-       cy="112.11671"
-       r="54.274899" />
+       cx="33.866665"
+       cy="33.866665"
+       r="33.866665" />
     <g
        id="g3080"
-       transform="translate(-0.3520168,-2.8720122)">
+       transform="matrix(0.62398397,0,0,0.62398397,-19.950144,-37.884451)">
       <path
          id="rect2991"
          style="opacity:1;fill:url(#linearGradient2999);fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.264583"

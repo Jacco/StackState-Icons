@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg4392"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="StepFunction.svg">
+   sodipodi:docname="StepFunctions-StateMachines.svg">
   <defs
      id="defs4386">
     <linearGradient
@@ -48,17 +48,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="400"
+     inkscape:cx="-144.28571"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1792"
-     inkscape:window-height="1092"
+     inkscape:window-height="1067"
      inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata4389">
     <rdf:RDF>
@@ -76,14 +77,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:26.1304"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:16.3124"
        id="path4286"
-       cx="86.934525"
-       cy="91.47023"
-       r="54.25" />
+       cx="33.866665"
+       cy="33.866665"
+       r="33.866665" />
     <g
        id="g4366"
-       transform="translate(16.225625,-62.635098)">
+       transform="matrix(0.62427035,0,0,0.62427035,-10.274801,-62.336722)">
       <path
          id="rect2991"
          style="fill:url(#linearGradient2999);fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.264583"

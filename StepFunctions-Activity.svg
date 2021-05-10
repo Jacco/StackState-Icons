@@ -8,16 +8,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg4507"
    inkscape:export-filename="/Users/jaccokulman/activity.png"
    inkscape:export-xdpi="59.929955"
    inkscape:export-ydpi="59.929955"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="Activity.svg">
+   sodipodi:docname="StepFunctions-Activity.svg">
   <defs
      id="defs4501">
     <linearGradient
@@ -60,8 +60,9 @@
      inkscape:window-width="1344"
      inkscape:window-height="943"
      inkscape:window-x="339"
-     inkscape:window-y="56"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata4504">
     <rdf:RDF>
@@ -79,17 +80,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:26.1304"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:16.3124"
        id="path4286"
-       cx="99.785706"
-       cy="120.19643"
-       r="54.25"
+       cx="33.866665"
+       cy="33.866665"
+       r="33.866665"
        inkscape:export-filename="/Users/jaccokulman/StepFunction.png"
        inkscape:export-xdpi="59.929955"
        inkscape:export-ydpi="59.929955" />
     <g
        id="g5139"
-       transform="translate(-0.75596243,6.8035744)">
+       transform="matrix(0.62427035,0,0,0.62427035,-28.898516,-36.921129)">
       <path
          id="rect2991"
          style="fill:url(#linearGradient2999);fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.264583"
