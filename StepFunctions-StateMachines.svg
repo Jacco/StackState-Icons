@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4392"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="StepFunction.svg">
+  <defs
+     id="defs4386">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2997"
+       id="linearGradient2999"
+       x1="34.017857"
+       y1="159.50595"
+       x2="131.53572"
+       y2="61.988094"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.0677,43.358347)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2997">
+      <stop
+         style="stop-color:#b0084d;stop-opacity:1"
+         offset="0"
+         id="stop2993" />
+      <stop
+         style="stop-color:#ff4f8b;stop-opacity:1"
+         offset="1"
+         id="stop2995" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1792"
+     inkscape:window-height="1092"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4389">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:26.1304"
+       id="path4286"
+       cx="86.934525"
+       cy="91.47023"
+       r="54.25" />
+    <g
+       id="g4366"
+       transform="translate(16.225625,-62.635098)">
+      <path
+         id="rect2991"
+         style="fill:url(#linearGradient2999);fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.264583"
+         d="M 70.709158,107.2299 A 46.389192,46.875329 0 0 0 24.319742,154.10559 46.389192,46.875329 0 0 0 70.709158,200.98076 46.389192,46.875329 0 0 0 117.09805,154.10559 46.389192,46.875329 0 0 0 70.709158,107.2299 Z"
+         inkscape:export-xdpi="69.613052"
+         inkscape:export-ydpi="69.613052" />
+      <path
+         d="M 78.909346,158.85108 H 104.47067 V 150.3306 H 78.909346 Z M 105.68786,147.89622 H 77.692155 c -0.67314,0 -1.217237,0.5453 -1.217237,1.21719 v 10.95486 c 0,0.6719 0.544097,1.21719 1.217237,1.21719 h 27.995705 c 0.67314,0 1.21724,-0.54529 1.21724,-1.21719 v -10.95486 c 0,-0.67189 -0.5441,-1.21719 -1.21724,-1.21719 z m -28.604347,33.47316 c 0,2.34918 -1.910986,4.26021 -4.260213,4.26021 -2.349181,0 -4.260213,-1.91103 -4.260213,-4.26021 0,-2.34923 1.911032,-4.26021 4.260213,-4.26021 2.349227,0 4.260213,1.91098 4.260213,4.26021 z M 41.175974,162.50269 h 21.909708 v -4.86885 H 41.175974 Z m 0,-12.17209 h 21.909708 v -4.8688 H 41.175974 Z m 27.387113,-23.73549 c 0,-2.34923 1.911032,-4.26021 4.260213,-4.26021 2.349227,0 4.260213,1.91098 4.260213,4.26021 0,2.34918 -1.910986,4.26021 -4.260213,4.26021 -2.349181,0 -4.260213,-1.91103 -4.260213,-4.26021 z m 23.73554,43.21082 H 53.348019 v -4.86885 h 10.954854 c 0.673094,0 1.217191,-0.5453 1.217191,-1.21719 v -7.30324 c 0,-0.6719 -0.544097,-1.21719 -1.217191,-1.21719 H 53.348019 v -2.43443 h 10.954854 c 0.673094,0 1.217191,-0.54529 1.217191,-1.21719 v -7.30324 c 0,-0.67189 -0.544097,-1.21723 -1.217191,-1.21723 H 53.348019 v -3.65162 h 38.950608 v 4.86885 h 2.434382 v -6.08604 c 0,-0.6719 -0.544097,-1.21719 -1.217191,-1.21719 H 74.040537 v -3.76847 c 3.111155,-0.57455 5.477404,-3.30231 5.477404,-6.57779 0,-3.69178 -3.004057,-6.69464 -6.694641,-6.69464 -3.690538,0 -6.694641,3.00286 -6.694641,6.69464 0,3.27548 2.366249,6.00324 5.47745,6.57779 v 3.76847 H 52.130828 c -0.67314,0 -1.217237,0.54529 -1.217237,1.21719 v 4.86881 H 39.958737 c -0.673094,0 -1.217191,0.54534 -1.217191,1.21723 v 7.30324 c 0,0.6719 0.544097,1.21719 1.217191,1.21719 h 10.954854 v 2.43443 H 39.958737 c -0.673094,0 -1.217191,0.54529 -1.217191,1.21719 v 7.30324 c 0,0.67189 0.544097,1.21719 1.217191,1.21719 h 10.954854 v 6.08604 c 0,0.6719 0.544097,1.21719 1.217237,1.21719 h 19.475281 v 2.55128 c -3.111201,0.57451 -5.47745,3.30226 -5.47745,6.57779 0,3.69178 3.004103,6.69464 6.694641,6.69464 3.690584,0 6.694641,-3.00286 6.694641,-6.69464 0,-3.27553 -2.366249,-6.00328 -5.477404,-6.57779 v -2.55128 h 19.475281 c 0.673094,0 1.217191,-0.54529 1.217191,-1.21719 v -6.05315 h -2.434382 z"
+         id="AWS_Step_Functions_Icon_64_Squid-2"
+         fill="#ffffff"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1.2172" />
+    </g>
+  </g>
+</svg>

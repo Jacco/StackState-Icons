@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg16"
+   inkscape:export-filename="/Users/jaccokulman/EventBridgeRule.png"
+   inkscape:export-xdpi="59.902462"
+   inkscape:export-ydpi="59.902462"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="EventSource.svg">
+  <defs
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2997">
+      <stop
+         style="stop-color:#b0084d;stop-opacity:1"
+         offset="0"
+         id="stop2993" />
+      <stop
+         style="stop-color:#ff4f8b;stop-opacity:1"
+         offset="1"
+         id="stop2995" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2979"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b0084d;stop-opacity:1;"
+         offset="0"
+         id="stop2977" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2997"
+       id="linearGradient2999"
+       x1="34.017857"
+       y1="159.50595"
+       x2="131.53572"
+       y2="61.988094"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.118491,1.3697201)" />
+    <linearGradient
+       x1="0%"
+       y1="100%"
+       x2="100%"
+       y2="0%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#B0084D"
+         offset="0%"
+         id="stop128" />
+      <stop
+         stop-color="#FF4F8B"
+         offset="100%"
+         id="stop130" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3722772"
+     inkscape:cx="271.92347"
+     inkscape:cy="541.03347"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1792"
+     inkscape:window-height="1067"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3073"
+       cx="85.895088"
+       cy="112.11671"
+       r="54.274899" />
+    <path
+       id="rect2991"
+       style="fill:url(#linearGradient2999);fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.264583"
+       d="M 85.895349,65.241276 A 46.389192,46.875329 0 0 0 39.505933,112.11697 46.389192,46.875329 0 0 0 85.895349,158.99214 46.389192,46.875329 0 0 0 132.28424,112.11697 46.389192,46.875329 0 0 0 85.895349,65.241276 Z"
+       inkscape:export-xdpi="69.613052"
+       inkscape:export-ydpi="69.613052" />
+    <path
+       d="m 97.069665,107.67381 -9.527232,5.43246 -0.06131,10.9671 9.528806,-5.43091 z m -22.361727,10.91524 9.627837,5.62892 0.06285,-11.25631 -9.627836,-5.62892 z m 1.567173,-14.01971 9.82118,5.7421 9.689142,-5.5252 -9.818038,-5.740554 z m 10.398064,23.58307 c -0.242096,0.13664 -0.509323,0.20615 -0.778088,0.20615 -0.213757,0 -0.421277,-0.0594 -0.620895,-0.14318 l -12.935094,-7.36899 c -0.485737,-0.28457 -0.781231,-0.80483 -0.779941,-1.36601 l 0.08359,-14.88734 c 0.0031,-0.51092 0.262473,-0.97616 0.675914,-1.26698 l 12.880081,-7.461783 c 0.487281,-0.275069 1.086176,-0.273287 1.571889,0.01188 l 12.710316,7.752603 c 0.4653,0.28754 0.751363,0.79378 0.748273,1.34237 l -0.0802,14.59818 c -0.003,0.56143 -0.304948,1.0783 -0.793804,1.35812 z m 14.121875,-46.966521 -2.892284,-1.233947 -4.406011,10.335214 2.89071,1.235492 z m 13.64087,11.465372 -1.88784,-2.513462 -9.04152,6.787423 1.88785,2.515007 z m -5.25011,18.103499 11.2516,-1.42418 -0.39615,-3.12016 -11.2516,1.42567 z m -2.45058,11.68697 10.44836,4.32274 1.20092,-2.90486 -10.44836,-4.32274 z m -8.041799,8.92209 6.844019,8.91103 2.49302,-1.91615 -6.84402,-8.90943 z m -11.473238,3.75679 1.406843,11.11171 3.11863,-0.39627 -1.405268,-11.1117 z m -16.226644,7.92549 2.89229,1.23394 4.409149,-10.33361 -2.892279,-1.23394 z m -13.640868,-11.46383 1.889412,2.51506 9.041525,-6.79057 -1.889419,-2.51346 z m 5.251684,-18.10344 -11.251597,1.42572 0.396146,3.11862 11.251603,-1.42412 z m 2.449014,-11.68703 -10.448367,-4.322679 -1.199353,2.903249 10.446793,4.32274 z m 1.199353,-17.834669 -2.493019,1.916153 6.842442,8.912581 2.493019,-1.916094 z m 15.195475,5.550327 -1.405268,-11.1101 3.118631,-0.396265 1.406842,11.1101 z"
+       id="Amazon-EventBridge-Saas-Partner-Event_48"
+       fill="#ff4f8b"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.57189" />
+  </g>
+</svg>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg16"
+   inkscape:export-filename="/Users/jaccokulman/EventBridgeRule.png"
+   inkscape:export-xdpi="59.902462"
+   inkscape:export-ydpi="59.902462"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="Archive.svg">
+  <defs
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2997">
+      <stop
+         style="stop-color:#b0084d;stop-opacity:1"
+         offset="0"
+         id="stop2993" />
+      <stop
+         style="stop-color:#ff4f8b;stop-opacity:1"
+         offset="1"
+         id="stop2995" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2979"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#b0084d;stop-opacity:1;"
+         offset="0"
+         id="stop2977" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2997"
+       id="linearGradient2999"
+       x1="34.017857"
+       y1="159.50595"
+       x2="131.53572"
+       y2="61.988094"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.118491,1.3697201)" />
+    <linearGradient
+       x1="0%"
+       y1="100%"
+       x2="100%"
+       y2="0%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#B0084D"
+         offset="0%"
+         id="stop128" />
+      <stop
+         stop-color="#FF4F8B"
+         offset="100%"
+         id="stop130" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.97034651"
+     inkscape:cx="320.50625"
+     inkscape:cy="415.71429"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1792"
+     inkscape:window-height="1067"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3073"
+       cx="85.895088"
+       cy="112.11671"
+       r="54.274899" />
+    <path
+       id="rect2991"
+       style="fill:url(#linearGradient2999);fill-opacity:1;fill-rule:evenodd;stroke:#d45500;stroke-width:0.264583"
+       d="M 85.895349,65.241276 A 46.389192,46.875329 0 0 0 39.505933,112.11697 46.389192,46.875329 0 0 0 85.895349,158.99214 46.389192,46.875329 0 0 0 132.28424,112.11697 46.389192,46.875329 0 0 0 85.895349,65.241276 Z"
+       inkscape:export-xdpi="69.613052"
+       inkscape:export-ydpi="69.613052" />
+    <path
+       d="m 89.856593,83.311484 h 11.388967 l 6.00997,9.720823 H 89.856593 Z m -1.440545,12.601935 h 21.423822 c 0.52148,0 1.00406,-0.282574 1.25759,-0.738994 0.25497,-0.4568 0.24201,-1.015633 -0.0316,-1.457843 l -7.79203,-12.601935 c -0.26216,-0.425222 -0.72459,-0.684221 -1.22447,-0.684221 H 88.416048 c -0.796625,0 -1.440551,0.643877 -1.440551,1.440529 v 12.601881 c 0,0.796652 0.643926,1.440583 1.440551,1.440583 z M 81.933585,93.032307 H 64.534651 l 6.009966,-9.720823 H 81.933585 Z M 83.37413,80.430426 H 69.740789 c -0.499868,0 -0.962282,0.259162 -1.224461,0.684221 l -7.791925,12.601935 c -0.273699,0.442101 -0.286657,1.001151 -0.03158,1.457843 0.253554,0.456801 0.736119,0.738994 1.257602,0.738994 h 21.423812 c 0.796625,0 1.440546,-0.643931 1.440546,-1.440583 V 81.870955 c 0,-0.796652 -0.643921,-1.440529 -1.440546,-1.440529 z m 6.482463,60.491444 H 108.39932 V 100.95533 H 89.856593 Z M 109.83987,98.074213 H 88.416048 c -0.796625,0 -1.440551,0.643932 -1.440551,1.440584 V 142.3624 c 0,0.79665 0.643926,1.44058 1.440551,1.44058 h 21.423822 c 0.79662,0 1.44054,-0.64393 1.44054,-1.44058 V 99.514797 c 0,-0.796652 -0.64392,-1.440584 -1.44054,-1.440584 z M 63.390858,140.92187 H 81.933585 V 100.95533 H 63.390858 Z M 83.37413,98.074213 H 61.950312 c -0.796625,0 -1.440551,0.643932 -1.440551,1.440584 V 142.3624 c 0,0.79665 0.643926,1.44058 1.440551,1.44058 H 83.37413 c 0.796625,0 1.440546,-0.64393 1.440546,-1.44058 V 99.514797 c 0,-0.796652 -0.643921,-1.440584 -1.440546,-1.440584 z"
+       id="AWS-Amazon-S3-Glacier_Vault_Resource-Icon_light-bg"
+       fill="#6cae3e"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.44055" />
+  </g>
+</svg>
